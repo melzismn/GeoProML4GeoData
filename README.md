@@ -15,7 +15,7 @@ This is the Repository for the course Geometry processing and machine learning f
       
       Tuesday  28/11/2023    NA
        
-
+**Programme and resources:** 
 
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
