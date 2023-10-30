@@ -31,9 +31,9 @@ Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  |  |
 | | |
 Fri 24 Nov | 10.30 - 12.30 | LAB2 - Point-based |  |  |
 | | |
-Fri 24 Nov | 14.00 - 16.00 | Intrinsic and Volumetric |  |  |
+Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  |  |
 | | |
-Fri 24 Nov | 16.00 - 18.00 | LAB3 - Intrinsic and Volumetric |  |  |
+Fri 24 Nov | 16.00 - 18.00 | LAB3 - Implicit and Volumetric |  |  |
 | | |
 Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  |  |
 | | |
