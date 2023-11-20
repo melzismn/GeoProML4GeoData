@@ -1,6 +1,6 @@
 # GeoProML4GeoData
 ![alt text](teaser.png)
-This is the Repository for the course Geometry processing and machine learning for geometric data, yields at the University of Milano-Bicocca, in November 2023.
+This is the Repository for the course Geometry Processing and Machine Learning for Geometric Data, yields at the University of Milano - Bicocca, in November 2023.
 
 
 **Lecturers:** Simone Melzi [website](https://sites.google.com/site/melzismn/), Riccardo Marin [website](https://ricma.netlify.app/)
@@ -21,7 +21,7 @@ This is the Repository for the course Geometry processing and machine learning f
 | | |
 Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |  |  |
 | | |
-Thu 23 Nov | 10.30 - 12.30 | 3D Applications |  |  |
+Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications |  |  |
 | | |
 Thu 23 Nov | 14.00 - 16.00 | Spectral representation |  |  |
 | | |
