@@ -5,6 +5,11 @@ This is the Repository for the course Geometry Processing and Machine Learning f
 
 **Lecturers:** Simone Melzi [website](https://sites.google.com/site/melzismn/), Riccardo Marin [website](https://ricma.netlify.app/)
 
+**Where:**
+Aula Seminari, First floor, Building U14, Viale Sarca 336, 20125, Milan (Italy)
+Department of Informatics, Systems and Communication (DISCo)
+University of Milan-Bicocca
+
 **When:** 
 
       Thursday 23/11/2023    8.30 - 12.30 and 14.00 - 18.00
