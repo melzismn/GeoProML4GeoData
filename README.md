@@ -7,9 +7,7 @@ This is the Repository for the course Geometry Processing and Machine Learning f
 
 **Where:**
 Aula Seminari, First floor, Building U14, Viale Sarca 336, 20125, Milan (Italy)
-
 Department of Informatics, Systems and Communication (DISCo)
-
 University of Milan-Bicocca
 
 **When:** 
