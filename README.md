@@ -24,7 +24,7 @@ University of Milan-Bicocca
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |  |  |
+Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |[LAB0]{https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing}|  |
 | | |
 Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications |  |  |
 | | |
