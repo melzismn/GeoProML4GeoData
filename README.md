@@ -28,9 +28,9 @@ Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |  | [SLIDES1](https://drive
 | | |
 Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) | [SLIDES2](https://drive.google.com/file/d/132X0cCtKgIltpj1iWwlzSRCsSIz9LUlB/view?usp=sharing) |
 | | |
-Thu 23 Nov | 14.00 - 16.00 | Spectral representation |  |  |
+Thu 23 Nov | 14.00 - 16.00 | Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) | [SLIDES3](https://drive.google.com/file/d/1-LoiNI2ZzCFbazDy5MP-pU4tOsQywFqT/view?usp=sharing) |
 | | |
-Thu 23 Nov | 16.00 - 18.00 | LAB1 - Applications |  [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing), [LAB1](https://drive.google.com/file/d/1MhfzQBmPj2VMORPUERVzCgflpmLbvEVo/view?usp=sharing)| [SLIDES3](https://drive.google.com/file/d/1-LoiNI2ZzCFbazDy5MP-pU4tOsQywFqT/view?usp=sharing)|
+Thu 23 Nov | 16.00 - 18.00 | LAB1 - Applications |  [LAB1](https://drive.google.com/file/d/1MhfzQBmPj2VMORPUERVzCgflpmLbvEVo/view?usp=sharing)| |
 | | |
 Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  |  |
 | | |
