@@ -24,9 +24,9 @@ University of Milan-Bicocca
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |[LAB0]{https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing}|  |
+Thu 23 Nov | 8.30 - 10.30 | Introduction to 3D data |  | [SLIDE](https://drive.google.com/file/d/1Z_9NyLO6gQsrBY-HlCPEfqKZU1eE-ix1/view?usp=sharing) |
 | | |
-Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications |  |  |
+Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) | [SLIDE](https://drive.google.com/file/d/132X0cCtKgIltpj1iWwlzSRCsSIz9LUlB/view?usp=sharing) |
 | | |
 Thu 23 Nov | 14.00 - 16.00 | Spectral representation |  |  |
 | | |
