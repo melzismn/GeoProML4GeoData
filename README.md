@@ -36,9 +36,9 @@ Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  | [SLIDES4](https://dr
 | | |
 Fri 24 Nov | 10.30 - 12.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
-Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  |  |
+Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  | [SLIDES5](https://drive.google.com/file/d/1eVRWTsLvm1IF3iUR0C7-R8rLFi4LXxGU/view?usp=sharing)  |
 | | |
-Fri 24 Nov | 16.00 - 18.00 | LAB3 - Implicit and Volumetric |  |  |
+Fri 24 Nov | 16.00 - 18.00 | LAB3 - Implicit and Volumetric | [LAB3](https://drive.google.com/file/d/1lBtqsqZmpHnh-vi86LG_D3YygQonQseb/view?usp=sharing)  |  |
 | | |
 Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  |  |
 | | |
