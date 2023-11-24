@@ -32,9 +32,9 @@ Thu 23 Nov | 14.00 - 16.00 | Spectral representation | [LAB0.5](https://drive.go
 | | |
 Thu 23 Nov | 16.00 - 18.00 | LAB1 - Applications |  [LAB1](https://drive.google.com/file/d/1MhfzQBmPj2VMORPUERVzCgflpmLbvEVo/view?usp=sharing)| |
 | | |
-Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  |  |
+Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  | [SLIDES4](https://drive.google.com/file/d/1TEgkUzVg7wGJ6VaWGLMO4Y6AkFT8n_5X/view?usp=sharing) |
 | | |
-Fri 24 Nov | 10.30 - 12.30 | LAB2 - Point-based |  |  |
+Fri 24 Nov | 10.30 - 12.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
 Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  |  |
 | | |
