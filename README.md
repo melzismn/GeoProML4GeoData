@@ -40,9 +40,9 @@ Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  | [SLIDES5](https://driv
 | | |
 Fri 24 Nov | 16.00 - 18.00 | LAB3 - Implicit and Volumetric | [LAB3](https://drive.google.com/file/d/1lBtqsqZmpHnh-vi86LG_D3YygQonQseb/view?usp=sharing)  |  |
 | | |
-Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  |  |
+Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  | [SLIDES6](https://drive.google.com/file/d/1NDQe9EiQlQTc9liZAlrVj9rGAsAX0MrO/view?usp=sharing) |
 | | |
-Mon 27 Nov | 10.30 - 12.30 | LAB4 - ML on Graphs |  |  |
+Mon 27 Nov | 10.30 - 12.30 | LAB4 - ML on Graphs | [LAB4](https://colab.research.google.com/drive/1Serk4B4Ih2-DUi-pccgQEjTtLoxfqe6R?usp=sharing) |  |
 | | |
 Mon 27 Nov | 14.00 - 16.00 | Mesh Convolution + LAB5 |  |  |
 | | |
