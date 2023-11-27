@@ -44,7 +44,7 @@ Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  | [SLIDES6](https://drive.google.com
 | | |
 Mon 27 Nov | 10.30 - 12.30 | LAB4 - ML on Graphs | [LAB4](https://colab.research.google.com/drive/1Serk4B4Ih2-DUi-pccgQEjTtLoxfqe6R?usp=sharing) |  |
 | | |
-Mon 27 Nov | 14.00 - 16.00 | Mesh Convolution + LAB5 |  |  |
+Mon 27 Nov | 14.00 - 16.00 | Mesh Convolution + LAB5 | [LAB5](https://drive.google.com/file/d/1QQ96x4rqRlgSxpEADIWl-aNENOaCtx8y/view?usp=sharing) |  |
 | | |
 Mon 27 Nov | 16.00 - 18.00 | Future direction and discussion |  |  |
 | | |
